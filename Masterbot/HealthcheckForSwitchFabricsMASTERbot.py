@@ -129,3 +129,6 @@ try:
 except Exception as e:
 	print(e)
 	LMB32_write_logs.write_log("Exception in Fabric Switch Health Check", str(e), formatted_date, log_path, "Error")
+
+
+print("this is the end")
