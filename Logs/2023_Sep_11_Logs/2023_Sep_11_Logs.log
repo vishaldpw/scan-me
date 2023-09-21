@@ -1,0 +1,12 @@
+[log]: 2023-09-11 18:32:52 Info: Trying to take the remote connection for 10.23.122.12 server
+[log]: 2023-09-11 18:33:13 Error: Unable to Connect to remote server 10.23.122.12
+[log]: 2023-09-11 18:33:13 Info: Trying to take the remote connection for 10.24.12.98 server
+[log]: 2023-09-11 18:33:35 Info: Successfully taken remote connection: 10.24.12.98
+[log]: 2023-09-11 18:33:35 Info: Started Execution Of HealthcheckForSwitchFabrics Bot
+[log]: 2023-09-11 18:33:35 INFO: No issue found. No output found, No further action require.
+[log]: 2023-09-11 18:33:35 Info: Health check Script executed successfully for '10.24.12.98' server
+[log]: 2023-09-11 18:33:35 Info: Trying to take the remote connection for demo server
+[log]: 2023-09-11 18:33:38 Error: Unable to Connect to remote server demo
+[log]: 2023-09-11 18:33:38 Info: Trying to take the remote connection for 10.24.12.119 server
+[log]: 2023-09-11 18:33:59 Error: Unable to Connect to remote server 10.24.12.119
+[log]: 2023-09-11 18:33:59 Info: Script Ended

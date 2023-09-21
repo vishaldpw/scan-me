@@ -1,0 +1,8 @@
+[log]: 2023-09-06 15:30:35 Info: Started execution of remoteConnect bot
+[log]: 2023-09-06 15:30:56 Info: Successfully taken remote connection: 10.24.12.98
+[log]: 2023-09-06 15:30:56 Info: Ended execution of remoteConnect bot
+[log]: 2023-09-06 15:30:56 Info: Started Execution Of HealthcheckForSwitchFabrics Bot
+[log]: 2023-09-06 15:30:57 Error: Error is: DSRhel0801 
+[log]: 2023-09-06 15:30:57 Info: Health check Script executed successfully for '10.24.12.98' server
+[log]: 2023-09-06 15:30:57 Info: Started execution of remoteConnect bot
+[log]: 2023-09-06 15:30:59 Error: Unable to Connect to remote server demo

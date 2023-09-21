@@ -1,0 +1,11 @@
+[log]: 2023-09-07 11:10:03 Info: Trying to take the remote connection for 10.23.122.12 server
+[log]: 2023-09-07 11:10:03 Error: Unable to Connect to remote server 10.23.122.12
+[log]: 2023-09-07 11:10:03 Info: Trying to take the remote connection for 10.24.12.98 server
+[log]: 2023-09-07 11:10:03 Info: Successfully taken remote connection: 10.24.12.98
+[log]: 2023-09-07 11:10:03 Info: Started Execution Of HealthcheckForSwitchFabrics Bot
+[log]: 2023-09-07 11:10:03 Error: Error found, the error is: DSRhel0801 
+[log]: 2023-09-07 11:10:03 Info: Trying to take the remote connection for demo server
+[log]: 2023-09-07 11:10:13 Error: Unable to Connect to remote server demo
+[log]: 2023-09-07 11:10:13 Info: Trying to take the remote connection for 10.24.12.119 server
+[log]: 2023-09-07 11:10:16 Error: Unable to Connect to remote server 10.24.12.119
+[log]: 2023-09-07 11:10:16 Info: Script Ended

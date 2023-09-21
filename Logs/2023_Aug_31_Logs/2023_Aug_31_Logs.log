@@ -1,0 +1,17 @@
+[log]: 2023-08-31 18:16:54 Info: #### Started execution of Ping bot ####
+[log]: 2023-08-31 18:16:58 Info: Ping execution is successful
+[log]: 2023-08-31 18:16:58 Info: #### Ended execution of Ping bot ####
+[log]: 2023-08-31 18:16:58 Info: #### Started execution of remoteConnect bot ####
+[log]: 2023-08-31 18:17:19 Info: Successfully taken remote connection: 10.24.12.98
+[log]: 2023-08-31 18:17:19 Info: #### Ended execution of remoteConnect bot ####
+[log]: 2023-08-31 18:17:19 Info: #### Started Execution Of HealthcheckForSwitchFabrics Bot ####
+[log]: 2023-08-31 18:17:19 Error: DSRhel0801 
+[log]: 2023-08-31 18:18:42 Info: #### Started execution of Ping bot ####
+[log]: 2023-08-31 18:18:45 Info: Ping execution is successful
+[log]: 2023-08-31 18:18:45 Info: #### Ended execution of Ping bot ####
+[log]: 2023-08-31 18:18:45 Info: #### Started execution of remoteConnect bot ####
+[log]: 2023-08-31 18:19:06 Info: Successfully taken remote connection: 10.24.12.98
+[log]: 2023-08-31 18:19:06 Info: #### Ended execution of remoteConnect bot ####
+[log]: 2023-08-31 18:19:06 Info: #### Started Execution Of HealthcheckForSwitchFabrics Bot ####
+[log]: 2023-08-31 18:19:06 Error: DSRhel0801 
+[log]: 2023-08-31 18:19:06 Error: output found: 
